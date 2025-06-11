@@ -1,4 +1,4 @@
-# 🧠 Shallow Neural Network – Pima Indians Diabetes
+#  Shallow Neural Network – Pima Indians Diabetes
 
 Welcome to a foundational machine learning project where we implement a **shallow neural network from scratch** using only NumPy.
 
@@ -6,7 +6,7 @@ This hands-on exercise is designed to strengthen your understanding of the core 
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
 - ✅ Fully manual implementation of a feedforward neural network
 - ✅ Trained on the Pima Indians Diabetes dataset
@@ -17,7 +17,7 @@ This hands-on exercise is designed to strengthen your understanding of the core 
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) contains 768 records of Native American women with 8 clinical features:
 
@@ -35,7 +35,7 @@ The [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-i
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Data Loading**
    - Train & test CSVs are loaded with Pandas
@@ -64,7 +64,7 @@ The [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-i
 
 ---
 
-## 🗂️ Project Files
+##  Project Files
 
 | File                   | Description                                   |
 |------------------------|-----------------------------------------------|
@@ -76,7 +76,7 @@ The [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-i
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/your-username/shallow-nn-diabetes.git
